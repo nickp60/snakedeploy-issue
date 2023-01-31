@@ -2,6 +2,7 @@ samples: config/samples.tsv
 
 units: config/units.tsv
 
+abrandnewparam: 42
 # Optional group annotation table. Uncomment to use.
 # In the table, there has to be a column "group",
 # with one entry for each group occurring in the 
